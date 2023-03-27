@@ -24,7 +24,7 @@
 
 ### Olá! Meu nome é Bruno.
 
-Tenho um grande interesse por programação, e estou sempre buscando aprender mais sobre. Neste perfil, você encontrará alguns dos meus projetos pessoais. Se quiser saber mais sobre meus projetos ou experiências profissionais, sinta-se à vontade para explorar este perfil.
+Tenho um grande interesse por programação, e estou sempre buscando aprender mais sobre. Neste perfil, você encontrará alguns dos meus projetos pessoais. Se quiser saber mais sobre meus projetos ou experiências profissionais, sinta-se à vontade para explorar meus repositórios e LinkedIn.
 
 #### Repositórios
 
