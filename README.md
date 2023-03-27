@@ -4,14 +4,16 @@
             <img src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif">
         </td>
         <td width="60%" align="center">
-            <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" height="60" /></code>
-            <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="60" height="60" /></code>
-            <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg" width="60" height="60" /></code>
-            <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="60" height="60" /></code>
-            <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" /></code>
-            <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" /></code>
-            <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60" /></code>
-            <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60" /></code>
+            <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" /></code>
+            <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg" width="60" /></code>
+            <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" /></code>
+            <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" /></code>
+            <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" /></code>
+            <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="60" /></code>
+            <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" /></code>
+            <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" /></code>
+            <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" /></code>
+            <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" /></code>
         </td>
         <td width="20%">
             <img src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif">
@@ -28,6 +30,6 @@ Tenho um grande interesse por programação, e estou sempre buscando aprender ma
 ## Projetos pessoais
 
 <dl>
-    <dt><a href="https://github.com/brunoaragao/Budget">Budget<a></dt>
+    <dt><a href="https://github.com/brunoaragao/Budget">Budget</a></dt>
     <dd>Um aplicativo de orçamento familiar.</dd>
 </dl>
