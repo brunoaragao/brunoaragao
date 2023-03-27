@@ -9,10 +9,10 @@
             <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" /></code>
             <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" /></code>
             <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" /></code>
-            <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="60" /></code>
             <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" /></code>
-            <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" /></code>
             <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" /></code>
+            <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" /></code>
+            <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" /></code>
             <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" /></code>
         </td>
         <td width="20%">
@@ -27,9 +27,9 @@
 
 Tenho um grande interesse por programação, e estou sempre buscando aprender mais sobre. Neste perfil, você encontrará alguns dos meus projetos pessoais. Se quiser saber mais sobre meus projetos ou experiências profissionais, sinta-se à vontade para explorar este perfil.
 
-## Projetos pessoais
+#### Repositórios
 
 <dl>
     <dt><a href="https://github.com/brunoaragao/Budget">Budget</a></dt>
-    <dd>Um aplicativo de orçamento familiar.</dd>
+    <dd>Um aplicativo para o controle de orçamento familiar, onde você pode controlar suas despesas e receitas mensais de forma simples e fácil.</dd>
 </dl>
