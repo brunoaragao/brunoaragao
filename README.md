@@ -20,15 +20,8 @@
     </tr>
 </table>
 
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align="left" src="https://github.githubassets.com/images/mona-loading-dark.gif" width="100">
 
 ### Olá! Meu nome é Bruno.
 
 Tenho um grande interesse por programação, e estou sempre buscando aprender mais sobre. Neste perfil, você encontrará alguns dos meus projetos pessoais. Se quiser saber mais sobre meus projetos ou experiências profissionais, sinta-se à vontade para explorar meus repositórios e LinkedIn.
-
-#### Repositórios
-
-<dl>
-    <dt><a href="https://github.com/brunoaragao/FamilyBudget">Family Budget</a></dt>
-    <dd>Um aplicativo para o controle de orçamento familiar, onde você pode controlar suas despesas e receitas mensais de forma simples e fácil.</dd>
-</dl>
