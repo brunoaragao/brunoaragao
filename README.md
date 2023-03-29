@@ -29,6 +29,6 @@ Tenho um grande interesse por programação, e estou sempre buscando aprender ma
 #### Repositórios
 
 <dl>
-    <dt><a href="https://github.com/brunoaragao/Budget">Budget</a></dt>
+    <dt><a href="https://github.com/brunoaragao/FamilyBudget">Family Budget</a></dt>
     <dd>Um aplicativo para o controle de orçamento familiar, onde você pode controlar suas despesas e receitas mensais de forma simples e fácil.</dd>
 </dl>
