@@ -24,11 +24,11 @@
 
 ### Olá! Meu nome é Bruno.
 
-Tenho um grande interesse por programação, e estou sempre buscando aprender mais sobre. Neste perfil, você encontrará alguns dos meus projetos pessoais. Se quiser saber mais sobre meus projetos ou experiências profissionais, sinta-se à vontade para explorar este perfil.
+Tenho um grande interesse por programação, e estou sempre buscando aprender mais sobre. Neste perfil, você encontrará alguns dos meus projetos pessoais. Se quiser saber mais sobre meus projetos ou experiências profissionais, sinta-se à vontade para explorar meus repositórios e LinkedIn.
 
 #### Repositórios
 
 <dl>
-    <dt><a href="https://github.com/brunoaragao/Budget">Budget</a></dt>
+    <dt><a href="https://github.com/brunoaragao/FamilyBudget">Family Budget</a></dt>
     <dd>Um aplicativo para o controle de orçamento familiar, onde você pode controlar suas despesas e receitas mensais de forma simples e fácil.</dd>
 </dl>
