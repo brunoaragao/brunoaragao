@@ -20,6 +20,8 @@
     </tr>
 </table>
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 <img align="left" src="https://github.githubassets.com/images/mona-loading-dark.gif" width="100">
 
 ### Olá! Meu nome é Bruno.
